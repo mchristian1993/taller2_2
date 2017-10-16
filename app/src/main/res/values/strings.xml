@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">taller2_2</string>
+    <string name="txt1">Usuarios</string>
+    <string name="txt4">Posts</string>
+    <string name="txt5">Comments</string>
+    <string name="txt2">Id:</string>
+    <string name="txt3">223445555677</string>
+</resources>
